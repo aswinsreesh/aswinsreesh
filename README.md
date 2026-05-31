@@ -1,6 +1,6 @@
 # Hi there, I'm Aswin Sreesh! 👋
 
-### Full Stack Web Developer | Backend & API Architect
+### Full Stack Web Dev
 
 I'm a software developer with over 5 years of experience specializing in building robust, scalable web applications. I love architecting seamless frontend and backend systems, designing efficient schemas, and bringing content to life through headless CMS platforms.
 
